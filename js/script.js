@@ -9,11 +9,11 @@ function displayPosts(posts) {
 
     posts.forEach(post => {
         const postCard = `
-            <div class="card mb-3">
+            <div class="card mb-3 bg-secondary">
                 <div class="card-body">
                     <h5 class="card-title">${post.title}</h5>
-                    <p class="card-text">Author: ${post.author}</p>
-                    <p class="card-text"><small class="text-muted">Date: ${post.date}</small></p>
+                    <p class="card-text">${post.post}</p>
+                    <p class="card-text"><small>${post.author} | ${post.date}</small></p>
                 </div>
             </div>
         `;
