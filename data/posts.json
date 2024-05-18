@@ -1,8 +1,8 @@
 [
     {
-        "title": "First Post",
-        "post": "Lorem ipsum",
-        "author": "John Doe",
-        "date": "2023-01-01"
+        "title": "A computação e a eletrônica",
+        "post": "&nbsp&nbspComo foi que a computação atingiu o nível atual de abstração? Como ela evoluiu de válvulas a computadores que programam computadores (ChatGPT e outras IA's generativas)?<br><br>&nbsp&nbspA história da computação se funde a história da eletrônica e isso se dá porque no cerne da computação o que temos na verdade são circuitos digitais. A evolução da computação evoluiu de ta forma que hoje em dia, operamos uma máquina ao mesmo tempo complexa e simples. Complexa na sua estrutura e funcionamento interno porém simples de se operar. Devemos agradecimentos aos engenheiros que permitiram tal nível de abstração.<br><br>&nbsp&nbspAo iniciar um curso na área da computação, estudamos nas primeiras disciplinas, matérias que falam sobre circuitos digitais e algebra booleana. Essas disciplinas são de fato importante porque nos introduzem a base da computação. Posteriormente nas disciplinas de arquitetura e organização de computadores, começamos a juntar as peças do quebra-cabeça.<br><div class='text-center'><img src='img/eletronic-lab.png' height=100%></div>",
+        "author": "Walter de Castro",
+        "date": "11/05/2024"
     }
 ]
